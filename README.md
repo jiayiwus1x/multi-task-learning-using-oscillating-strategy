@@ -1,5 +1,6 @@
 # multi-task-learning-using-oscillating-strategy
-
+## Schematic of oscillating strategy
+![image](https://drive.google.com/uc?export=view&id=13u3myPlHJQDhHOrLGbNv1Tabs6yDuZ-A)
 ## Description
 
 Nowadays, machines are good at doing a single task. However once you train them to do something else, they tend to be very forgetful! Here, we explore one possible method to teach neural networks multiple tricks!
